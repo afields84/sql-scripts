@@ -1,2 +1,2 @@
-# sql_scripts
+# sql-scripts
 Helpful SQL scripts for all...
